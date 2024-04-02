@@ -1,5 +1,5 @@
 {
-    "name": "AndriiTereshchuk/filament-user-activity",
+    "name": "atereshchuk/filament-user-activity",
     "description": "Tracks user activity and shows currently active users",
     "keywords": [
         "laravel",
