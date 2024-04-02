@@ -1,21 +1,20 @@
 {
-    "name": "edwink/filament-user-activity",
+    "name": "AndriiTereshchuk/filament-user-activity",
     "description": "Tracks user activity and shows currently active users",
     "keywords": [
-        "edwink",
         "laravel",
         "filament-user-activity"
     ],
-    "homepage": "https://github.com/edwink75/filament-user-activity",
+    "homepage": "https://github.com/AndriiTereshchuk/filament-user-activity",
     "support": {
-        "issues": "https://github.com/edwink75/filament-user-activity/issues",
-        "source": "https://github.com/edwink75/filament-user-activity"
+        "issues": "https://github.com/AndriiTereshchuk/filament-user-activity/issues",
+        "source": "https://github.com/AndriiTereshchuk/filament-user-activity"
     },
     "license": "MIT",
     "authors": [
         {
-            "name": "Edwin Krause",
-            "email": "edwin@kitc.eu",
+            "name": "Andrii Tereshchuk",
+            "email": "andrii@tereshch.uk",
             "role": "Developer"
         }
     ],
@@ -23,7 +22,7 @@
         "php": "^8.1",
         "filament/filament": "^3.0",
         "spatie/laravel-package-tools": "^1.15.0",
-        "illuminate/contracts": "^10.0"
+        "illuminate/contracts": "^10.0|^11.0"
     },
     "require-dev": {
         "nunomaduro/collision": "^7.9",
